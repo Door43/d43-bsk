@@ -17,3 +17,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/bsk|Ethnologue data]]
 
+
+**Resources**
+
+  * [[bsk:obs|Open Bible Stories (bsk)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:bsk:obs:status}}
